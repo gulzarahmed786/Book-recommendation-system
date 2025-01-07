@@ -25,7 +25,7 @@ This repository contains the implementation of a **Recommendation System**, whic
 
 ## Dataset
 
-- **Source**: The dataset used for this project can be [specified here].
+- **Source**: The dataset used for this project can be (https://github.com/gulzarahmed786/Book-recommendation-system/blob/eea04a9d21d7d944fa3285e93ff3a8c1bd67eb40/Dataset.rar).
 - **Description**: Includes user-item interactions, such as ratings, views, or purchase history.
 - **Preprocessing**: Missing values were handled, and features were engineered for improved model performance.
 
@@ -100,9 +100,6 @@ Contributions are welcome! If you have suggestions or find any issues, feel free
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
